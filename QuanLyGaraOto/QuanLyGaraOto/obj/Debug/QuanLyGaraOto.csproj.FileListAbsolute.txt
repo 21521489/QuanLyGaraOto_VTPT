@@ -1,0 +1,11 @@
+D:\QuanLyGaraOto\QuanLyGaraOto\QuanLyGaraOto\bin\Debug\QuanLyGaraOto.exe.config
+D:\QuanLyGaraOto\QuanLyGaraOto\QuanLyGaraOto\bin\Debug\QuanLyGaraOto.exe
+D:\QuanLyGaraOto\QuanLyGaraOto\QuanLyGaraOto\bin\Debug\QuanLyGaraOto.pdb
+D:\QuanLyGaraOto\QuanLyGaraOto\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.csproj.AssemblyReference.cache
+D:\QuanLyGaraOto\QuanLyGaraOto\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.fLogin.resources
+D:\QuanLyGaraOto\QuanLyGaraOto\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.Properties.Resources.resources
+D:\QuanLyGaraOto\QuanLyGaraOto\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.csproj.GenerateResource.cache
+D:\QuanLyGaraOto\QuanLyGaraOto\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.csproj.CoreCompileInputs.cache
+D:\QuanLyGaraOto\QuanLyGaraOto\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.exe
+D:\QuanLyGaraOto\QuanLyGaraOto\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.pdb
+D:\QuanLyGaraOto\QuanLyGaraOto\QuanLyGaraOto\obj\Debug\QuanLyGaraOto.fTableManager.resources
